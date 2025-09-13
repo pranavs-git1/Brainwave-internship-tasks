@@ -43,4 +43,5 @@ Pull requests are welcome! For major changes, please open an issue first.
 ## Contact
 
  Pranav Swarnkar
+ 
  Email: pswarnkar301@gmail.com
