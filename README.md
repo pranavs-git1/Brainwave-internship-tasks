@@ -44,6 +44,10 @@ Monthly sales showed a strong growth trend in Q3.
 
 Pull requests are welcome! For major changes, please open an issue first.
 
+## Sales Dashboard
+
+<img width="1280" height="720" alt="sales dashboard" src="https://github.com/user-attachments/assets/e4b399e0-1aca-46cd-b2f0-e52fc2256113" />
+
 ## Contact
 
  Pranav Swarnkar
