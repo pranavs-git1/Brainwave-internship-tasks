@@ -22,9 +22,13 @@ It is implemented in **Python (Jupyter Notebook)** and includes **data cleaning,
 
 ## Repository Structure
 Sales-Data-Analysis
+
 │── 📓 sales_analysis.ipynb # Jupyter Notebook with code & analysis
+
 │── 📄 report.pdf # Final project report
+
 │── 📄 README.md # Project documentation
+
 │── 📂 data # Sample sales dataset (CSV)
 
 
